@@ -72,17 +72,3 @@ if k> 1:
     print(longPass[0:j])
     #print(longPass[len: finlen])
 
-
-
-
-
-"""
-
-if SymbolsYN:
-    choiceList+= symbols
-    
-if Upper:
-    choiceList += upper
-    
-for i in legnth:
-    output += choiceList[random.randrange(0,len(choiceList))]
