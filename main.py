@@ -86,5 +86,3 @@ if Upper:
     
 for i in legnth:
     output += choiceList[random.randrange(0,len(choiceList))]
-
-"""
